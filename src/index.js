@@ -14,7 +14,7 @@ const DemoApp = () => {
   return (
     <React.Fragment>
       <div style={{ padding: "1rem", maxWidth: "832px" }} className="app">
-        <GlassExample image={image} largeImage={largeImage}  />
+        <GlassExample image={bwUrlImage} largeImage={urlImage}  />
       </div>
     </React.Fragment>
   );
