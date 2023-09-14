@@ -13,7 +13,7 @@ const bwUrlImage = 'https://64.media.tumblr.com/0488a9ce0b030bd74afdf833f9429942
 const DemoApp = () => {
   return (
     <React.Fragment>
-      <div style={{ padding: "2rem", maxWidth: "832px" }} className="app">
+      <div style={{ padding: "1rem", maxWidth: "832px" }} className="app">
         <GlassExample image={image} largeImage={largeImage}  />
       </div>
     </React.Fragment>
