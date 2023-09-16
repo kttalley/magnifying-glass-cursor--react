@@ -9,7 +9,7 @@ function getLargeImageStyle(positionX, positionY, active) {
     zIndex: "1",
     visibility: !active ? "hidden" : "visible",
     width: "auto",
-    maxWidth: "1100px"
+    maxWidth: "900px"
   };
 }
 

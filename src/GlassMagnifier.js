@@ -100,7 +100,7 @@ GlassMagnifier.defaultProps = {
   magnifierBorderSize: 3,
   magnifierBorderColor: "rgba(255,255,255,.5)",
   magnifierBackgroundColor: "rgba(225,225,225,.5)",
-  magnifierSize: "25%",
+  magnifierSize: "30%",
   magnifierOffsetX: 0,
   magnifierOffsetY: 0,
   square: false,
